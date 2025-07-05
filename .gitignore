@@ -6,7 +6,7 @@ dist/
 *.js
 
 # QR code images
-*.png
+output
 
 # Optional: TypeScript cache
 *.tsbuildinfo
